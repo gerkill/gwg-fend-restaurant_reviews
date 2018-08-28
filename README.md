@@ -22,3 +22,7 @@ To run the app locally:<br>
 * In a terminal, check the version of Python you have: `python -v`. If you have Python 2.x, run the server with `python -m SimpleHTTPServer 3000` (or some other port, if port 3000 is already in use.) For Python 3.x, you can use `python -m http.server 3000`. If you don't have Python installed, go to Python's [website](https://www.python.org/) to download and install the software.
 
 * With your server running, open the site: `http://localhost:3000`.
+
+## Code Dependencies
+
+* [Project Restaurant Reviews (Stage 1) - Starter Code](https://github.com/udacity/mws-restaurant-stage-1)
