@@ -70,7 +70,7 @@ fillCuisinesHTML = (cuisines = self.cuisines) => {
 };
 
 /**
- * Initialize Google map, called from HTML.
+ * Initialize Google maps, called from HTML.
  */
 window.initMap = () => {
   const loc = {
@@ -185,7 +185,7 @@ addMarkersToMap = (restaurants = self.restaurants) => {
 };
 
 /**
- * Register the Service Worker
+ * Registering the Service Worker
  */
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.register('./sw.js').then(() => {
