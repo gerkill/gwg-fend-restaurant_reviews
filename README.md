@@ -8,6 +8,6 @@
 The design  must be responsive on different sized displays and accessible for screen reader use.<br>
 A Service Worker must be added in order to begin the process of creating a seamless offline experience for the app's users.
 
-## Run the Application
+## Running the Application
 
 In order to run the application
