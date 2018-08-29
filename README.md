@@ -27,4 +27,4 @@ To run the app locally:<br>
 
 * [Project Restaurant Reviews (Stage 1) - Starter Code](https://github.com/udacity/mws-restaurant-stage-1)
 * ['Building Progressive Web Apps' Lessons and Code Examples by Tal Ater](https://github.com/TalAter/gotham_imperial_hotel)
-* [Advice and help from fellow Udacity students and mentors](https://www.diigo.com/outliner/fjslyn/Udacity-Restaurant-Reviews-App-(project-%235)?key=zqiopam1yz) 
+* [Resources, advice and help from fellow Udacity students and mentors](https://www.diigo.com/outliner/fjslyn/Udacity-Restaurant-Reviews-App-(project-%235)?key=zqiopam1yz) 
