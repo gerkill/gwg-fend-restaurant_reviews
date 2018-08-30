@@ -2,41 +2,40 @@
 /* CSS Document */
 
 body,td,th,p{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	color: darkred;
-	line-height: 1.5;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: darkred;
+  line-height: 1.5;
 }
 body {
-	background-color: #fdfdfd;
-	margin: 0;
-	position:relative;
+  background-color: #fdfdfd;
+  margin: 0;
+  position:relative;
 }
 ul, li {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 1.5em;
-	color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  color: darkred;
 }
 a {
-	color: #fff;
-	text-decoration: none;
+  color: #fff;
+  text-decoration: none;
   text-align: center;
   margin-left: 30px;
 }
 a:hover, a:focus {
-	color: #3397db;
-	text-decoration: none;
+  color: #3397db;
+  text-decoration: none;
 }
 a img{
-	border: none 0px #fff;
+  border: none 0px #fff;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: Arial, Helvetica, sans-serif;
 
 }
-
 article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-	display: block;
+  display: block;
 
 }
 #maincontent {
@@ -86,6 +85,7 @@ nav h1 a {
 #breadcrumb li {
     display: inline;
     font-size: 1.25em;
+    color: #fff;
 
 }
 
@@ -158,10 +158,12 @@ nav h1 a {
   background-color: #fff;
   border: 2px solid darkred;
   font-family: Arial,sans-serif;
+  font-size: 0.75em;
+  text-align: center;
   margin: 15px;
   min-height: 380px;
   padding: 10 10 10 10px;
-  text-align: left;
+  text-align: center;
   max-width: 85%;
 }
 #restaurants-list .restaurant-img {
@@ -188,7 +190,7 @@ nav h1 a {
   height: 25px;
 }
 #restaurants-list p {
-  font-size: 0.5em;
+  font-size: 1.0em;
   margin: 0;
   padding: 0 20px;
   width: 55%;
@@ -198,7 +200,7 @@ nav h1 a {
   border-bottom: 3px solid #eee;
   color: #fff;
   display: inline-block;
-  font-size: 0.5em;
+  font-size: 1.0em;
   margin: 15px 0 0;
   padding: 10px 42px 10px;
   text-align: center;
@@ -243,7 +245,7 @@ nav h1 a {
   line-height: 1.1;
 }
 #restaurant-img {
-	width: 100%;
+  width: 100%;
   border-radius: 10px 10px 10px 10px;
 }
 #restaurant-address {
